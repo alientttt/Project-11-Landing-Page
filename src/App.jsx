@@ -238,7 +238,7 @@ const LandingPage = () => {
                 <Trophy className="w-6 h-6" />
               </div>
               <div className="text-left">
-                <div className="font-semibold">Sarah Chen</div>
+                <div className="font-semibold">Mahesa Aakmal</div>
                 <div className="text-gray-400">CEO, TechCorp Indonesia</div>
               </div>
             </div>
